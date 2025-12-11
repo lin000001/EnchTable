@@ -4,7 +4,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2511.09880-b31b1b.svg)](https://arxiv.org/abs/2511.09880)
 [![S&P](https://img.shields.io/badge/IEEE%20S%26P-2026-FF8800.svg)](https://www.ieee-security.org/TC/SP2026/)
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AntCPLab.EnchTable)
 </div>
 
 ## Overview
