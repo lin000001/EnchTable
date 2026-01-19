@@ -29,7 +29,7 @@ def resta_merge(task_model, taske_pre_model, safety_model, safety_pre_model, ada
     for key in task_vector:
         if task_vector[key] is not None and safety_vector[key] is not None:
 
-            merge_tv[key] = task_vector[key] + alpha * safety_vector[key] * 0.
+            merge_tv[key] = task_vector[key] + alpha * safety_vector[key]
 
     merged_params = {}
     for name in task_model.state_dict().keys():
